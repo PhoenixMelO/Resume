@@ -120,7 +120,7 @@ Melanie Phoenix {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-intro_text <- "I have created presentations and instructed classes with material that I created on powerpoint. I have also created animated skits and slideshows with powerpoint. I have created spreadsheets, calculation sheets, and forms using Excel.  
+intro_text <- "I have been a United States Marine with 20 years experience as a telecommunications technician. This position requires the ability to troubleshoot and problem solve. It also requires the accurate tracking and reporting on maintenance status, production, and resolution of service requests. As a result, I have created presentations and instructed classes with material that I created on powerpoint, excel, and word. I have also created animated skits and slideshows with powerpoint. I have created spreadsheets, calculation sheets, and forms using Excel. I have used multiple systems to track repair parts and status.   
 "
 
 
